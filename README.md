@@ -12,3 +12,11 @@ Scope and limitations
  - MS Excel for data [Download here](http://www.microsoft.com)
  - Microsoft Power Bi
  - Python
+
+
+~~~~
+Google querry sheet
+
+Select *From Table 1
+where condition =NET
+
